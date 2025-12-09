@@ -192,4 +192,3 @@ docker run -p 8000:8000 wiked
 
 **Nikunj Upadhyay**  
 IIT (BHU) Varanasi  
-Focus: Applied ML, LLM Systems, Retrieval Engineering
