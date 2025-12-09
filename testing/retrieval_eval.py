@@ -56,7 +56,6 @@ def run_retrieval_eval():
         expected_answer = item["expected_answer"]
 
         try:
-            # We only care about retrieval stage
             _, _, _, retrieved_docs = wik_ans(
                 user_query=question,
                 model=llm,
@@ -88,7 +87,7 @@ def run_retrieval_eval():
     print(f"Recall@{TOP_K}: {recall_score:.2f} ({success}/{total})")
 
     if failures:
-        print("\n❌ Failures:")
+        print("\nFailures:")
         for f in failures:
             print(f"- {f}")
 
