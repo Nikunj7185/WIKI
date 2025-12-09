@@ -3,11 +3,11 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from langchain_community.vectorstores import FAISS
 
-def RequestAndChunk(topics: list, embedding): # Added embedding argument
+def RequestAndChunk(topics: list, embedding):
     docs = WikipediaLoader(
         query=topics, 
         load_max_docs=len(topics),
-        doc_content_chars_max=10000 # Good practice
+        doc_content_chars_max=10000
     ).load()
 
     print(f"Total initial documents loaded: {len(docs)}")
