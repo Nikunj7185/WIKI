@@ -1,11 +1,11 @@
-# WIKED  
+# WIKI
 **LLM-Orchestrated Retrieval-Augmented Generation (RAG) Microservice for Factual QA**
 
 ---
 
 ## Overview
 
-**WIKED** is a deterministic, multi-stage **Retrieval-Augmented Generation (RAG)** system designed to answer factual questions using **Wikipedia as the knowledge source**.
+**WIKI** is a deterministic, multi-stage **Retrieval-Augmented Generation (RAG)** system designed to answer factual questions using **Wikipedia as the knowledge source**.
 
 Large Language Models (LLMs) are used **only for semantic transformations** (topic extraction, topic filtering, and query rewriting).  
 All control flow is **explicit, deterministic, and developer-defined**.
