@@ -6,4 +6,4 @@ langchain-community
 langchain-groq
 python-dotenv
 sentence-transformers
-faiss-cpu9
+faiss-cpu
