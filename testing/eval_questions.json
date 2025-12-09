@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who is the spouse of Kit Harington?",
+    "expected_answer": "Rose Leslie",
+    "expected_source": "Kit Harington"
+  },
+  {
+    "question": "When was the Python programming language first released?",
+    "expected_answer": "1991",
+    "expected_source": "Python (programming language)"
+  },
+  {
+    "question": "Who founded Tesla, Inc.?",
+    "expected_answer": "Elon Musk",
+    "expected_source": "Tesla, Inc."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "expected_answer": "Ottawa",
+    "expected_source": "Canada"
+  },
+  {
+    "question": "Who wrote the novel '1984'?",
+    "expected_answer": "George Orwell",
+    "expected_source": "Nineteen Eighty-Four"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "expected_answer": "1945",
+    "expected_source": "World War II"
+  },
+  {
+    "question": "What element has the chemical symbol 'O'?",
+    "expected_answer": "Oxygen",
+    "expected_source": "Oxygen"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "expected_answer": "George Washington",
+    "expected_source": "George Washington"
+  },
+  {
+    "question": "What is the largest planet in the Solar System?",
+    "expected_answer": "Jupiter",
+    "expected_source": "Jupiter"
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "expected_answer": "Albert Einstein",
+    "expected_source": "General relativity"
+  },
+  {
+    "question": "What year was Google founded?",
+    "expected_answer": "1998",
+    "expected_source": "Google"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "expected_answer": "Mount Everest",
+    "expected_source": "Mount Everest"
+  },
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "expected_answer": "France",
+    "expected_source": "2018 FIFA World Cup"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "expected_answer": "Leonardo da Vinci",
+    "expected_source": "Mona Lisa"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "expected_answer": "Diamond",
+    "expected_source": "Diamond"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "expected_answer": "Marie Curie",
+    "expected_source": "Marie Curie"
+  },
+  {
+    "question": "What gas do plants absorb during photosynthesis?",
+    "expected_answer": "Carbon dioxide",
+    "expected_source": "Photosynthesis"
+  },
+  {
+    "question": "When did the French Revolution begin?",
+    "expected_answer": "1789",
+    "expected_source": "French Revolution"
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "expected_answer": "J. K. Rowling",
+    "expected_source": "Harry Potter"
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "expected_answer": "299,792,458 m/s",
+    "expected_source": "Speed of light"
+  }
+]
