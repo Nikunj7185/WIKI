@@ -42,7 +42,7 @@ def wik_ans(
     model,
     embedding,
     k_results: int = 4,
-    return_docs: bool = False  # ✅ enables evaluation
+    return_docs: bool = False  # enables evaluation
 ):
     """
     Executes an LLM-orchestrated RAG pipeline.
@@ -134,7 +134,6 @@ def wik_ans(
     answer_chain = final_prompt | model
     final_resp = answer_chain.invoke({})
 
-    # ---------- Return ----------
     if return_docs:
         return (
             final_resp.content,
